@@ -22,3 +22,5 @@ jobs:
       - run: docker push rallycoding/multi-nginx
       - run: docker push rallycoding/multi-server
       - run: docker push rallycoding/multi-worker
+
+
